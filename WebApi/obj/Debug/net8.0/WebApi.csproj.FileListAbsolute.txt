@@ -136,3 +136,4 @@ C:\Users\kimba\OneDrive\Desktop\Skola\Nackademin-Webbutvecklare.NET\7-ASP.NET\Ex
 C:\Users\kimba\OneDrive\Desktop\Skola\Nackademin-Webbutvecklare.NET\7-ASP.NET\Examination_Project\Examination-project_Play\AspNetCoreWebApi\WebApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
 C:\Users\kimba\OneDrive\Desktop\Skola\Nackademin-Webbutvecklare.NET\7-ASP.NET\Examination_Project\Examination-project_Play\AspNetCoreWebApi\WebApi\bin\Debug\net8.0\Infrastructure.dll
 C:\Users\kimba\OneDrive\Desktop\Skola\Nackademin-Webbutvecklare.NET\7-ASP.NET\Examination_Project\Examination-project_Play\AspNetCoreWebApi\WebApi\bin\Debug\net8.0\Infrastructure.pdb
+C:\Users\kimba\OneDrive\Desktop\Skola\Nackademin-Webbutvecklare.NET\7-ASP.NET\Examination_Project\Examination-project_Play\AspNetCoreWebApi\WebApi\obj\Debug\net8.0\WebApi.sourcelink.json

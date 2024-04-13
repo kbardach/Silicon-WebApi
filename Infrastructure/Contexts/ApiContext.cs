@@ -8,5 +8,6 @@ namespace Infrastructure.Contexts
         public DbSet<SubscribeEntity> SubscribeEntities { get; set; }
         public DbSet<CourseEntity> Courses { get; set; }
         public DbSet<CategoryEntity> Categories { get; set; }
+        public DbSet<ContactEntity> Contact { get; set; }
     }
 }
